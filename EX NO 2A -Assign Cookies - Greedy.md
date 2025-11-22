@@ -1,4 +1,3 @@
-
 # EX 2A Assign Cookies using Greedy Algorithm. 
 ## DATE:28/08/25
 ## AIM:
